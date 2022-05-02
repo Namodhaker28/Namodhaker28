@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Namodhaker28
 - 👀 I’m interested in ... working on projects
 - 🌱 I’m currently learning ... C++ & web developing
-- 💞️ I’m looking to collaborate on ... with your ideas and working on projects
+- 💞️ I’m looking to collaborate ... with your ideas and working on projects
 - 📫 How to reach me ... namodhaker76@gmail.com
 
 <!---
